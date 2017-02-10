@@ -1,6 +1,6 @@
 ---
 layout: post
-title: guanggaogo!
+title: Hello World!
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
@@ -14,5 +14,3 @@ comments: true
 ### dbyll is on GitHub
 
 <a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
-
-
